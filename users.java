@@ -9,9 +9,16 @@ runniunbg
 hi
 
 iam updated again
+<<<<<<< HEAD
 hi iam
 updated
 
 
 
 hi
+=======
+hi
+
+today updating
+
+>>>>>>> master
